@@ -18,7 +18,7 @@
       "explicit_policy_language": "Conventional (Thermal) Radiofrequency Ablation requires site of service review. Refer to the Medical Policy titled Office-Based Procedures – Site of Service.",
       "conditions": [
         "Must undergo site of service review",
-        "Refer to Office-Based Procedures – Site of Service policy for additional requirements"
+        "Refer to Office-Based Procedures – Site of Service policy for specific requirements"
       ],
       "frequency_limits": [],
       "site_of_service_requirements": [
@@ -134,7 +134,7 @@
       "decision_type": "investigational_or_exclusion",
       "enforcement_level": "hard",
       "auto_denial": true,
-      "explicit_policy_language": "Intraosseous radiofrequency ablation of the basivertebral nerve (e.g., Intracept®) for the treatment of spinal pain is unproven and not medically necessary due to insufficient evidence of efficacy",
+      "explicit_policy_language": "Intraosseous radiofrequency ablation of the basivertebral nerve (e.g., Intracept ® ) for the treatment of spinal pain is unproven and not medically necessary due to insufficient evidence of efficacy",
       "conditions": [],
       "frequency_limits": [],
       "site_of_service_requirements": [],
